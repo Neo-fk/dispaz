@@ -4,10 +4,10 @@
   "nodes":[
     {
       "name":"v1",
-      "host":"lavalink2.botsuniversity.ml",
-      "port": 443,
-      "password": "mathiscool",
-      "secure": true
+      "host":"us1.lavalink.creavite.co",
+      "port": 20080,
+      "password": "auto.creavite.co",
+      "secure": false
     }
   ]
 }
