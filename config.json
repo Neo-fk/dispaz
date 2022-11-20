@@ -4,10 +4,10 @@
   "nodes":[
     {
       "name":"v1",
-      "host":"us1.lavalink.creavite.co",
-      "port": 20080,
-      "password": "auto.creavite.co",
-      "secure": false
+      "host":"lavalink.oops.wtf",
+      "port": 443,
+      "password": "www.freelavalink.ga",
+      "secure": true
     }
   ]
 }
