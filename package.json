@@ -1,7 +1,7 @@
 {
   "name": "dispaz",
   "version": "1.0.1",
-  "description": "Music Bot for my youtube Client",
+  "description": "youtube Client",
   "main": "index.js",
   "dependencies": {
     "ascii-table": "0.0.9",
